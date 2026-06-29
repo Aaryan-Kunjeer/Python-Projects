@@ -6,7 +6,7 @@ This repository contains beginner to intermediate Python projects that I build w
 
 ## Projects
 
-- Calculator (Coming Soon)
+- Calculator 
 - Number Guessing Game (Coming Soon)
 - Password Generator (Coming Soon)
 - To-Do List (Coming Soon)
